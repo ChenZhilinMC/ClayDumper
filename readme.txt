@@ -1,0 +1,2 @@
+for educational purposes only
+陈志林不再分发包含mixin的品格云核心jar
